@@ -177,4 +177,16 @@ PRODUCT_COPY_FILES += \
     vendor/lge/mako/proprietary/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
     vendor/lge/mako/proprietary/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/lge/mako/proprietary/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
-    vendor/lge/mako/proprietary/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so
+    vendor/lge/mako/proprietary/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
+    vendor/lge/mako/proprietary/gps.msm8960.so:system/lib/hw/gps.msm8960.so \
+    vendor/lge/mako/proprietary/libacdbdata.so:system/lib/libacdbdata.so \
+    vendor/lge/mako/proprietary/libgeofence.so:system/lib/libgeofence.so \
+    vendor/lge/mako/proprietary/libgps.utils.so:system/lib/libgps.utils.so \
+    vendor/lge/mako/proprietary/libloc_adapter.so:system/lib/libloc_adapter.so \
+    vendor/lge/mako/proprietary/libloc_eng.so:system/lib/libloc_eng.so \
+    vendor/lge/mako/proprietary/liboemcrypto.so:system/lib/liboemcrypto.so \
+    vendor/lge/mako/proprietary/tzapps.b00:system/etc/firmware/tzapps.b00 \
+    vendor/lge/mako/proprietary/tzapps.b01:system/etc/firmware/tzapps.b01 \
+    vendor/lge/mako/proprietary/tzapps.b02:system/etc/firmware/tzapps.b02 \
+    vendor/lge/mako/proprietary/tzapps.b03:system/etc/firmware/tzapps.b03 \
+    vendor/lge/mako/proprietary/tzapps.mdt:system/etc/firmware/tzapps.mdt
